@@ -12,7 +12,7 @@
 <a href="https://twitter.com/munna_tamton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="munna_tamton" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amina munawara tamton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amina munawara tamton" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/munnatamton0712@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="munnatamton0712@gmail.com" height="30" width="40" /></a>
-<a href="https://instagram.com/munna-tamton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="munna-tamton" height="30" width="40" /></a>
+<a href="https://instagram.com/munna_tamton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="munna-tamton" height="30" width="40" /></a>
 <a href="https://medium.com/@munnatamton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@munnatamton" height="30" width="40" /></a>
 </p>
 
