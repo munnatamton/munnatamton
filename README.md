@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/munnatamton](https://github.com/munnatamton)
 
 - 📫 How to reach me **munnatamton0712@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UzILe5xBaalyIDDURTMu0YG0lE3s3D8-/view?usp=sharing](https://drive.google.com/file/d/1UzILe5xBaalyIDDURTMu0YG0lE3s3D8-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UzILe5xBaalyIDDURTMu0YG0lE3s3D8-/view?usp=sharing]My Resume
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
