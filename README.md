@@ -3,10 +3,10 @@
 
 - 🌱 I’m currently learning **Cryptography, Blockchain and etc**
 
-- 👨‍💻 All of my projects are available at [https://github.com/munnatamton](github)
+- 👨‍💻 All of my projects are available at [https://github.com/munnatamton](https://github.com/munnatamton)
 
 - 📫 How to reach me **munnatamton0712@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UzILe5xBaalyIDDURTMu0YG0lE3s3D8-/view?usp=sharing]My Resume
+- 📄 Know about my experiences :- [My Resume](https://drive.google.com/file/d/1BQf5nlY4653KS_M629X_KWr0ldRAVz9S/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
