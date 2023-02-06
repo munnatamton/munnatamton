@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amina Munawara Tamton</h1>
 
 
-- 🌱 I’m currently learning **Cryptography, Blockchain and etc**
+- 🌱 I’m currently learning **Cryptography, Blockchain **
 
 - 👨‍💻 All of my projects are available at [https://github.com/munnatamton](https://github.com/munnatamton)
 
